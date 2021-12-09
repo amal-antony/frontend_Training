@@ -1,0 +1,272 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#96C7C1
+}
+
+.my-navbar {
+    background-color:white;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+.my-navbar .navbar-brand,
+.my-navbar .navbar-text {
+    color:blue;
+	padding: 2px;
+	margin-right: 10px;
+}
+
+
+.my-navbar .nav-item:hover .nav-link {
+    color:blue;
+}
+
+.my-navbar .navbar-nav .nav-link {
+    color:black;
+    margin-right: 5px;
+    padding:1rem 1rem
+
+}
+
+.nav-link.active {
+    color:blue !important;
+}
+.sec1{
+	background-color: #96C7C1;
+	width: 100%;
+}
+a{
+	color: turquoise;
+}
+
+.nav{
+	background-color: white;
+}
+
+
+.wrapper{
+	position: relative;
+	color: black;
+}
+
+.sv{
+	width:1200px;
+	height:600px;
+	position: relative;
+	top: 70px;
+}
+
+.head {
+	position: relative;
+	top:-200px;
+	font-size:100px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1{
+position: relative;
+top: -52px;
+}
+
+
+
+.btn-grps{
+	position:relative;
+	left:20px;
+	max-width: fit-content;
+}
+
+.buttons{
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.sec2{
+	margin-right:0px;
+	margin-top: 10px;
+	background-color: white;
+	width: 100%;
+	overflow-wrap: break-word;
+}
+
+.headerinfo{
+	margin: auto;
+	position: relative;
+	left: 120px;
+
+}
+
+.p2{
+	font-size:20px;
+	font-weight: 200;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	position: relative;
+}
+
+
+.cardlist{
+	margin-top: 10px;
+	position: relative;
+	left:120px;
+}
+
+.indcrd{
+	width: 18rem;
+}
+
+.ci1{
+	height:21rem;
+	width: 18rem;
+}
+
+.btn2{
+	position: relative;
+	top: 40px;
+	left:120px;
+	margin-bottom:70px;
+}
+
+.singlecard{
+	position: relative;
+	top:100px;
+	left: 120px;
+}
+
+.cardinfo{
+	position:relative;
+	top:120px;
+	margin-bottom: 20px;
+}
+
+.infottl .infobd{
+	word-wrap: break-word;
+	max-width:1000px;
+	overflow-wrap: break-word;
+
+}
+
+.sec3{
+	background-color:#96C7C1 ;
+	margin-top: 20px;
+	margin-bottom:80px;
+}
+
+.cardu{
+	border-color:#96C7C1;
+	background-color:#96C7C1 ;
+}
+
+.sec35{
+	margin-top:35px;
+	margin-bottom: 15px;
+	background-color: white;
+	position: relative;
+	top: 100px;
+	height:200px;
+	max-width:100%;
+}
+
+.crd3{
+	position: relative;
+	word-wrap: break-word;
+	background-color: white;
+}
+
+.crd35info{
+	margin-top:25px;
+	word-wrap: break-word;
+	background-color: white;
+	width: 100%;
+	max-width:100%;
+}
+
+
+
+
+.cdrbdr{
+	border-color:#96C7C1 ;
+}
+
+.lakeimg{
+	height:30rem;
+	width: 30rem;
+}
+
+.ct{
+	position:relative;
+	top:70px;
+	font-size:2.5rem;
+}
+
+.ctb{
+	position: relative;
+	top:100px;
+}
+
+.caption{
+	background-color: white;
+	position: relative;
+	top:75px;
+}
+
+.bd{
+	max-width:fit-content;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+.sec5{
+	background-color:#96C7C1;
+	
+}
+
+.gallery{
+	position: relative;
+	top:180px;
+	left: 120px;
+	background-color:#96C7C1;
+	margin-bottom: 0px;
+	
+}
+
+.glry-images{
+	position:absolute;
+	left: 20px;
+	background-color:#96C7C1;
+}
+
+.glry{
+	width:17rem;
+	height:20rem;
+	padding:2px;
+	margin-bottom: 20px;
+	background-color:#96C7C1;
+}
+
+.sec55{
+	height: 10rem;
+	background-color: white;
+	position: relative;
+	top: 1000px;
+}
+
+.sec6{
+	position: relative;
+	top: 1000px;
+}
+
+.icons{
+	font-size: 25px;
+	margin-right:24px;
+
+}
+
+
+
+
