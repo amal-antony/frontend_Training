@@ -1,0 +1,337 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0vmax;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:white;
+	
+}
+
+.start-page{
+	padding-left:0rem;
+	padding-right: 0rem;
+	background-color: white;
+	overflow: inherit;
+	
+}
+
+.my-navbar {
+    background-color:#041C32;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+
+.my-navbar .navbar-brand,
+.my-navbar .navbar-text {
+    color:white;
+	padding: 2px;
+	margin-right: 10px;
+}
+
+
+.my-navbar .nav-item:hover .nav-link {
+    color:yellow;
+}
+
+.my-navbar .navbar-nav .nav-link {
+    color:white;
+    margin-right: 5px;
+    padding:1rem 1rem
+
+}
+
+.nav-link.active {
+    color:wheat !important;
+}
+
+.navbar-toggler{
+	background-color:white;
+}
+
+.sec1{
+	width: 100%;
+}
+
+.bg-image{
+	max-height:750px;}
+
+.card-img-overlay{
+	overflow: hidden;
+	display:block
+}
+
+.wrapper{
+	display:inline-flexbox;
+	min-width:240px;
+	overflow-wrap: break-word;
+}
+
+.head{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:50px;
+	font-weight:1000;
+	position: relative;
+	left: 50px;
+}
+
+.p1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:1000;
+	position: relative;
+	top:50px;
+	left:50px;
+	overflow-wrap: break-word;
+	padding-bottom: 3px;
+	margin-bottom: 5px;
+}
+
+
+.btn-grps{
+	position:relative;
+	top:75px;
+	left:50px;
+	max-width: fit-content;
+}
+
+.buttons{
+	margin-right:25px;
+	margin-bottom: 15px;
+	background-color:#04293A;
+}
+
+.btnone{
+	background-color: white;
+	color:#04293A;
+}
+
+
+.sec2{
+	margin-right:0px;
+	margin-top:0px;
+	background-color: white;
+	width: 100%;
+	overflow: inherit;
+	display: flex;
+
+}
+
+
+.proj{
+	position: relative;
+	top: 40px;
+	text-decoration: underline;
+	color: tomato;
+
+}
+
+
+.headerinfo{
+	margin: auto;
+	position: relative;
+	left: 120px;
+
+}
+
+.p2{
+	font-size:20px;
+	font-weight: 200;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	position: relative;
+	top: 50px;
+}
+
+
+.cardlist{
+	margin-top: 10px;
+	position: relative;
+	top: 20px;
+	margin-left: 150px;
+	
+	
+}
+
+.indcrd{
+	width: 18rem;
+}
+
+.ci1{
+	height:21rem;
+	width: 18rem;
+}
+
+.btnsec2{
+	position: relative;
+	top:70px;
+}
+
+.viewbtn{
+	margin: auto;
+	background-color: #04293A;
+	color: white;
+}
+
+.sec35{
+	position: relative;
+	overflow: hidden;
+	padding:2px;
+	display: flex;
+	}
+
+.lake{
+	position: relative;
+	left: 0px;
+	padding:2px;
+	max-height: fit-content;
+	
+}
+
+.crdinglake{
+	max-height: 600px;
+}
+.singlecard{
+	position: relative;
+	top:100px;
+	margin-right: 20px;
+	width:100%;
+	background-color: #009DAE;
+	
+}
+
+.sec3card{
+	background-color:#009DAE;
+	padding-top: 20px;
+	color: white;
+	max-height: fit-content;
+	
+}
+
+
+.glry{
+	width: 2rem;
+	height: 5rem;
+
+}
+
+.gallery{
+	position: relative;
+	top: 10px;
+}
+
+.sec55{
+	background-color:#009DAE;
+	position: relative;
+	top:30px;
+}
+
+.sec6{
+	
+	background-color:#009DAE;
+	position: relative;
+	top:150px;
+}
+
+.icons{
+	font-size: 25px;
+	margin-right:24px;
+	color: white;
+
+}
+
+h6 , p{
+	color: white;
+}
+
+.p-4{
+	color: white;
+	margin-left: 30px;
+}
+
+.tw{
+	margin-left: 50px;
+	margin-right: 30px;
+}
+
+.itestimonial{
+	display: inline-block;
+}
+
+.im{
+	width: 200px;
+	height: 200px;
+	border-radius:100%;
+	opacity:1;
+	
+	
+}
+
+
+
+.testimonial{
+	position:relative;
+	top:50px;
+}
+
+.testcards{
+position: relative;
+top: 50px;
+}
+
+.testihead{
+	position: relative;
+	top: 20px;
+	text-decoration: underline;
+	color: tomato;
+}
+
+.testirow{
+	position: relative;
+	top: 50px;
+	left: 40px;
+}
+
+.testimonialtext{
+	height: 300px;
+	width: 350px;
+	border: 1px solid wheat;
+	border-top:none;
+	position: relative;
+	top:-50px;
+	background-color: lightgoldenrodyellow;
+	opacity: 0.6;
+	
+}
+
+.text{
+	color: black;
+	font-weight: bold;
+	position: relative;
+	top:100px;
+}
+
+.user{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	opacity:0.7;
+	position: relative;
+	left: 80px;
+}
+
+.icon2{
+	padding: 25px;
+	font-size: 7rem;
+	color: #009DAE;
+}
+
+
+
+
+
+
+
